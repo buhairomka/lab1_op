@@ -10,4 +10,3 @@ for i in range(len(matr)):
 		nextmatr[i][j]=matr[j][i]
 for i in nextmatr:
 	print(i)
-		
